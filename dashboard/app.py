@@ -13,7 +13,7 @@ st.set_page_config(
 c1, c2 = st.columns([1, 5], vertical_alignment="center")
 
 with c1:
-    st.image('./static/nasa_logo.png', use_column_width=True)
+    st.image('static/nasa_logo.png', use_column_width=True)
 with c2:
     st.title('Seismic Detection by Space Coders')
 
