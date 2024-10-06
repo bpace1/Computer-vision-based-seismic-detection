@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.venv
 *.zip
 *.pdf
 space_apps_2024_seismic_detection
