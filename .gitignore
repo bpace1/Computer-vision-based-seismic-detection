@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+*.zip
+*.pdf
+space_apps_2024_seismic_detection
+
 # C extensions
 *.so
 
