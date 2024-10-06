@@ -1,2 +1,5 @@
-[global]
-magic=false
+[runner]
+magicEnabled = false
+
+[server]
+port = 80
