@@ -5,7 +5,6 @@ __pycache__/
 
 .venv
 *.zip
-*.pdf
 space_apps_2024_seismic_detection
 
 # C extensions
